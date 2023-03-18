@@ -1,0 +1,31 @@
+* {
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+body{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+thead{
+    background-color: rgb(167, 247, 247);
+}
+
+td{
+
+    padding: 10px;
+
+}
+.container{
+
+    border: solid 1px black;
+}
+img{
+
+   float: right;
+}
